@@ -1,0 +1,18 @@
+{
+    "name": "shutnikmiit/005-testing",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "shutnikmiit\\005Testing\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "shutnikmiit",
+            "email": "shutnikmiit@ya.ru"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.2"
+    }
+}
